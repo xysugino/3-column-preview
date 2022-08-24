@@ -11,7 +11,8 @@ p{
   margin-bottom: 20px;
 }
 
-h2{
+h2,
+h1{
   color: hsl(0, 0%, 95%);
   font-family: Big Shoulders Display;
   margin-bottom: 25px;
